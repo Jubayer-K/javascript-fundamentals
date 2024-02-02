@@ -15,7 +15,7 @@ Input: const numbers = [12, 98, 5, 41, 23, 78, 46];
 
 Output:
 
-[12, 98, 76, 46]
+[12, 98, 78, 46]
 
 Task 3
 Use a for...of loop to concatenate all the elements of an array into a single string.
