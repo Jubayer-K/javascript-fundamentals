@@ -6,9 +6,8 @@ function make_avg(numbers , size){
             sum = sum + number;
         }
 
-        let average = sum / size;
+        return sum / size;
 
-        return average;
 }
 
 console.log(make_avg([1, 2, 3, 4, 5], 5));
